@@ -1,0 +1,45 @@
+
+=head1 NAME
+
+Checkster - It's a check module
+
+=head1 SINOPSYS
+
+    use Checkster 'check';
+
+    check->true(1);
+    check->false($var);
+    check->not->true($var);
+    check->not->false($var);
+
+=head1 DESCRIPTION
+
+L<Checkster> is a perl module that provide functions to make validations.
+
+The idea is make a framework to make your work with checks and validations more
+easy and intuitive.
+
+** ATENTION **
+This module is a concept, an idea that is in development to be a stable module
+in fucture. It's NOT production ready!
+
+=head1 GUIDE AND MANUAL
+
+You can read the guide for more informations about how to use L<Checkster> and
+what you can do with it.
+
+=over 4
+
+=item See L<Checkster::Guide> for a complete list of features.
+
+=back
+
+=head1 BUGS
+
+Send bugs and feature request for author's e-mail, I<daniel.vinciguerra@bivee.com.br>.
+
+=head1 AUTHOR
+
+Daniel Vinciguerra <daniel.vinciguerra@bivee.com>
+
+=cut

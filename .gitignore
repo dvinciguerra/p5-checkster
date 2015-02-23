@@ -1,3 +1,6 @@
+# Created by https://www.gitignore.io
+
+### Perl ###
 /blib/
 /.build/
 _build/
@@ -17,3 +20,14 @@ nytprof.out
 /pm_to_blib
 *.o
 *.bs
+/_eumm/
+
+
+### Vim ###
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+*~
+
