@@ -3,7 +3,7 @@
 
 Checkster - It's a check module
 
-=head1 SINOPSYS
+=head1 SYNOPSIS
 
     use Checkster 'check';
 
