@@ -145,7 +145,7 @@ __END__
 
 Checkster - Is a check perl module
 
-=head1 SINOPSYS
+=head1 SYNOPSIS
 
     use Checkster 'check';
 
